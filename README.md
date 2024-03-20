@@ -1,5 +1,7 @@
 # Blog-preview-page-
-![Screenshot_2024-03-20 Blog preview card](https://github.com/David-Praise/Blog-preview-page-/assets/162903352/474be394-1880-4d61-9420-0c5a13fd6f38)
+![Blog preview card](https://github.com/David-Praise/Blog-preview-page-/assets/162903352/e3ea6433-b891-4e59-b890-11ae16472085)
+
+
 
 ## Table of contents
 
