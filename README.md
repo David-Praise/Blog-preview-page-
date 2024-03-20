@@ -1,8 +1,8 @@
 # Blog-preview-page-
-![A photo of the page](Screenshot_2024-03-20 Blog preview card.png) 
+![A photo of the page]{Screenshot_2024-03-20 Blog preview card.png} 
 ## Table of contents
 
-- [Overview]
+- [Overview](#Overview)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
