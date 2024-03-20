@@ -1,5 +1,6 @@
 # Blog-preview-page-
-![A photo of the page](Screenshot_2024-03-20 Blog preview card.png)
+![Screenshot_2024-03-20 Blog preview card](https://github.com/David-Praise/Blog-preview-page-/assets/162903352/474be394-1880-4d61-9420-0c5a13fd6f38)
+
 ## Table of contents
 
 - [Overview](#Overview)
