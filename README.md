@@ -1,5 +1,5 @@
 # Blog-preview-page-
-![A photo of the page](Screenshot_2024-03-20 Blog preview card.png) 
+![A photo of the page](Screenshot_2024-03-20 Blog preview card.png)
 ## Table of contents
 
 - [Overview](#Overview)
